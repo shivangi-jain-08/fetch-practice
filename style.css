@@ -1,0 +1,16 @@
+#flight-info{
+    padding: 15px;
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+    border: 1px solid red;
+    /* width: 300px */
+}
+
+#container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 50px;
+    width: 80vw;
+}
